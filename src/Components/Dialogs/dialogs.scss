@@ -1,0 +1,21 @@
+.dialogs {
+  max-width: 1400px;
+  width: 1240px;
+  background-color: #6dbbee;
+  display: flex;
+  margin-left: 10px;
+  
+  a{
+    text-decoration:none;
+  }
+   li{
+      list-style-type: none;
+      margin-top: 5px;
+  }
+  .dialogItem{
+    margin-left: 10px;
+  }
+  .dialogMessage{
+    margin: 5px 50px;
+  }
+}
